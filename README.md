@@ -37,8 +37,7 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text(
-              'لقد ضغطت على الزر هذا العدد من المرات:',
+          const Text(
               style: TextStyle(fontSize: 18),
             ),
             Text(
